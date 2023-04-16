@@ -1,0 +1,12 @@
+console.log("-------ＲＥＳＵＬＴ-------");
+let maths;
+let science;
+let geo;
+let name;
+let school;
+let rollno;
+let grade;
+let section;
+let marks;
+console.log("Subjects",maths, science, geo);
+console.log("Name", name,"School",school,"Roll no.", rollno,"Grade",grade,"Section",section,"Marks",marks);
